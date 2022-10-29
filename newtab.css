@@ -1,0 +1,25 @@
+.container{
+    
+    width: 100%;
+    height: fit-content;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.search_bar{
+    color: rgb(235, 219, 178);
+    text-align: center;
+    background: transparent; 
+    outline: 0;
+    border: none;
+    font-family: Merriweather,serif;
+    font-size:4vmax;
+}
+body{
+    background-color: rgb(40, 40, 40);
+}
